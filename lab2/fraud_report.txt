@@ -1,0 +1,2 @@
+Suspicious transactions: [{'user_id': 'user_1', 'amount': 700000}, {'user_id': 'user_2', 'amount': 900000}]
+Total sum of suspicious operations: 1600000

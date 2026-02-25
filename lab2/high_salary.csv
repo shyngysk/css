@@ -1,0 +1,5 @@
+Average salary: 450000.0
+Departaments' average salaries{'IT': 516666.6666666667, 'HR': 300000.0, 'Marketing': 400000.0}
+Highest salary dep: IT
+Highest paid: {'name': 'Arman', 'dep': 'IT', 'salary': 600000}
+More than average salary: [{'name': 'Ali', 'dep': 'IT', 'salary': 500000}, {'name': 'Arman', 'dep': 'IT', 'salary': 600000}]

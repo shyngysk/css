@@ -1,0 +1,5 @@
+Unique users: 0
+Total buys: 3
+Total sum470
+Max useruser_2
+Average check156.66666666666666
