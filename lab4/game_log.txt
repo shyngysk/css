@@ -1,0 +1,10 @@
+2026-04-11 08:27:31.902969;Warrior;HEAL;{'heal': 7}
+2026-04-11 08:27:31.902991;Warrior;LOOT;{'item': <__main__.Item object at 0x000001AAB6495810>}
+2026-04-11 08:27:31.902995;Warrior;ATTACK;{'damage': 11}
+2026-04-11 08:27:31.902998;Warrior;LOOT;{'item': <__main__.Item object at 0x000001AAB61F78C0>}
+2026-04-11 08:27:31.903000;Warrior;HEAL;{'heal': 15}
+2026-04-11 08:27:31.903003;Mage;ATTACK;{'damage': 8}
+2026-04-11 08:27:31.903005;Mage;LOOT;{'item': <__main__.Item object at 0x000001AAB6495950>}
+2026-04-11 08:27:31.903006;Mage;LOOT;{'item': <__main__.Item object at 0x000001AAB61F78C0>}
+2026-04-11 08:27:31.903007;Mage;LOOT;{'item': <__main__.Item object at 0x000001AAB61F78C0>}
+2026-04-11 08:27:31.903009;Mage;LOOT;{'item': <__main__.Item object at 0x000001AAB6495810>}
